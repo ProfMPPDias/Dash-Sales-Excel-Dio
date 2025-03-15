@@ -103,26 +103,3 @@ Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licens
 Espero que este dashboard seja útil para você! 😊
 
 <br>
-
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/44624583?v=4"
-    />
-    <p>&nbsp&nbsp&nbspMarcos Winther<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/MarcosWinther">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/marcoswinthersilva/">LinkedIn</a>
-    </p>
-</p>
-<br/><br/>
-
----
-
-⌨️ com 💜 por [Marcos Winther](https://github.com/MarcosWinther)
